@@ -1,0 +1,61 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <Version>1.0</Version>
+    <Title>MarkerBasedAR</Title>
+    <Description>MarkerBasedAR</Description>
+    <TargetExt>.gha</TargetExt>
+  </PropertyGroup>
+	
+  <ItemGroup>
+    <PackageReference Include="Grasshopper" Version="7.0.20314.3001" />
+    <PackageReference Include="OpenCvSharp4" Version="4.8.0.20230708" />
+    <PackageReference Include="OpenCvSharp4.Extensions" Version="4.8.0.20230708" />
+    <PackageReference Include="OpenCvSharp4.runtime.win" Version="4.8.0.20230708" />
+  </ItemGroup>
+    
+  <ItemGroup>
+    <Reference Include="Camera_NET">
+      <HintPath>..\..\DirectShow_NET\Camera_NET.dll</HintPath>
+    </Reference>
+    <Reference Include="DirectShowLib-2010">
+      <HintPath>..\..\DirectShow_NET\DirectShowLib-2010.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+    
+  <ItemGroup>
+    <Compile Update="ComponentsNClasses\CalibrationForm.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>CalibrationForm.resx</DependentUpon>
+    </Compile>
+    <Compile Update="ComponentsNClasses\Resource_BitmapPreview.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resource_BitmapPreview.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+    
+  <ItemGroup>
+    <EmbeddedResource Update="ComponentsNClasses\CalibrationForm.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>CalibrationForm.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ComponentsNClasses\Resource_BitmapPreview.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource_BitmapPreview.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

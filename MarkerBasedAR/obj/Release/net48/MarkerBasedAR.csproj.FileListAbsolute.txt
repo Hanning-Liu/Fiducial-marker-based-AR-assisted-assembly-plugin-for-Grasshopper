@@ -1,0 +1,64 @@
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\dll\x86\OpenCvSharpExtern.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\dll\x86\opencv_videoio_ffmpeg480.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\dll\x64\OpenCvSharpExtern.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\dll\x64\opencv_videoio_ffmpeg480_64.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\MarkerBasedAR.gha
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\MarkerBasedAR.pdb
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\OpenCvSharp.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\OpenCvSharp.Extensions.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\Eto.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\Rhino.UI.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\RhinoCommon.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\System.Buffers.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\System.Drawing.Common.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\System.Memory.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\System.Numerics.Vectors.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\System.ValueTuple.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\Camera_NET.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\bin\Release\net48\DirectShowLib-2010.dll
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.csproj.AssemblyReference.cache
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.ComponentsNClasses.BitmapForm.resources
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.ComponentsNClasses.CalibrationForm.resources
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.ComponentsNClasses.Resource_BitmapPreview.resources
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.Properties.Resources.resources
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.csproj.GenerateResource.cache
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.AssemblyInfoInputs.cache
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.AssemblyInfo.cs
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.csproj.CoreCompileInputs.cache
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\obj\Release\net48\MarkerBa.B64F0819.Up2Date
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.gha
+C:\Users\77950\Desktop\Hani - From seperate to allinone\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.pdb
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\dll\x64\OpenCvSharpExtern.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\OpenCvSharp.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\Camera_NET.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\DirectShowLib-2010.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.csproj.AssemblyReference.cache
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.ComponentsNClasses.BitmapForm.resources
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.ComponentsNClasses.CalibrationForm.resources
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.ComponentsNClasses.Resource_BitmapPreview.resources
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.Properties.Resources.resources
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.csproj.GenerateResource.cache
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.AssemblyInfoInputs.cache
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.AssemblyInfo.cs
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.csproj.CoreCompileInputs.cache
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\dll\x86\OpenCvSharpExtern.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\dll\x86\opencv_videoio_ffmpeg480.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\dll\x64\opencv_videoio_ffmpeg480_64.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\MarkerBasedAR.gha
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\MarkerBasedAR.pdb
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\OpenCvSharp.Extensions.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\Eto.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\Rhino.UI.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\RhinoCommon.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\System.Buffers.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\System.Drawing.Common.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\System.Memory.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\System.Numerics.Vectors.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\bin\Release\net48\System.ValueTuple.dll
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\obj\Release\net48\MarkerBa.B64F0819.Up2Date
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.gha
+C:\Users\77950\Desktop\MarkerBasedAR\MarkerBasedAR\obj\Release\net48\MarkerBasedAR.pdb
